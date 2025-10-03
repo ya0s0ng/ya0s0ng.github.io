@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>楊曜菘的個人介紹</title>
+  <style>
+    body {
+      font-family: "Microsoft JhengHei", sans-serif;
+      background-color: #e6f2f2;
+      text-align: center;
+    }
+    .card {
+      background: white;
+      border-radius: 15px;
+      padding: 20px;
+      margin: 20px auto;
+      width: 600px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+    h1 {
+      color: #006666;
+    }
+    h2 {
+      color: #009999;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    p {
+      line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>楊曜菘</h1>
+    <h2>基本資料</h2>
+    <p>目前就讀中原大學 智慧運算與大數據學士班 3年級</p>
+    <p>Email: yangyaohua1104@gmail.com</p>
+
+    <h2>興趣</h2>
+    <p>聽音樂 | 運動（網球、羽球）</p>
+
+  
+
+    <h2>目標</h2>
+    <p>不要餓死 </p>
+  </div>
+</body>
+</html>
